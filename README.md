@@ -1,4 +1,3 @@
-# Sample project
-## Github Intermediate for May 21, 2014
+# Sample Repo for Github Intermediate course for May 21, 2014
 
-_Event Date: May 21_
+_Event Date: May 21, 2014
